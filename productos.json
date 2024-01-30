@@ -1,0 +1,6 @@
+[
+    { "id": 1, "nombre": "Camara HD", "precio": 2000 },
+    { "id": 2, "nombre": "Mouse", "precio": 5000 },
+    { "id": 3, "nombre": "Teclado", "precio": 2000 },
+    {" id": 4, "nombre": "Monitor", "precio": 18000 }
+]
